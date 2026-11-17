@@ -26,7 +26,7 @@ const sidebars = {
       value: '<div class="sidebar-contents-label">Contents</div>',
       defaultStyle: true,
     },
-    {type: 'link', label: '1. Executive Summary', href: `${PAPER}#executive`},
+    {type: 'link', label: '1. Kilgore Trout(1907-1981)', href: `${PAPER}#title`},
     {
       type: 'link',
       label: '2. Two Quotes',
