@@ -7,8 +7,8 @@ const config = {
 
   future: {},
 
-  url: 'https://kennyofthesmith.github.io',
-  baseUrl: '/student_template/',
+  url: 'https://Pr1me-Mic07.github.io',
+  baseUrl: '/TuesdayFunday/',
   organizationName: 'Pr1me-Mic07',
   projectName: 'TuesdayFunday',
   trailingSlash: false,
