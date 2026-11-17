@@ -9,8 +9,8 @@ const config = {
 
   url: 'https://kennyofthesmith.github.io',
   baseUrl: '/student_template/',
-  organizationName: 'kennyofthesmith',
-  projectName: 'student_template',
+  organizationName: 'Pr1me-Mic07',
+  projectName: 'TuesdayFunday',
   trailingSlash: false,
   onBrokenLinks: 'throw',
 
