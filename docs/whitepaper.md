@@ -20,7 +20,7 @@ monument looked like this:"
   <span>**J. M. Forester**<br/>Zombie Biology Institute</span>
   <span>**Jim McHiggleteeth**<br/>Zombie Biology Institute</span>
 </div>
-:::tip[GraveStone}
+:::tip[GraveStone]
 Kilgore Trout(1907-1981)
 We are healthy only to the extent that our ideas are humane.
 :::
